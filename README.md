@@ -1,4 +1,4 @@
-[# 💫 About Me:
+💫 About Me:
 Hi there! 👋<br><br>I'm Tenzing Kunsang Sherpa, a passionate coder with a love for turning ideas into reality through code. I thoroughly enjoy working on coding projects and continuously learning new technologies to <br>enhance my skills.
 
 
