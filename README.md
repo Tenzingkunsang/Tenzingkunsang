@@ -74,8 +74,6 @@
 
 ## ⚡ Fun Facts
 - 🎵 I love creating digital art & motion graphics in my free time.  
-- 🏔️ Proud Sherpa from Nepal 🇳🇵.  
-- ⚾ Used to play **baseball & basketball** a lot before coding took over!  
 
 ---
 
