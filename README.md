@@ -1,26 +1,82 @@
-💫 About Me:
-Hi there! 👋<br><br>I'm Tenzing Kunsang Sherpa, a passionate coder with a love for turning ideas into reality through code. I thoroughly enjoy working on coding projects and continuously learning new technologies to <br>enhance my skills.
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4fa3f7">Tenzing Kunsang Sherpa</span></h1>
+<h3 align="center">💻 Developer | 🚀 Tech Explorer | 🎨 Creative Thinker</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ixngken_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
-
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tenzingkunsang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tenzingkunsang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenzingkunsang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tenzingkunsang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://instagram.com/ixngken_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tenzin-sherpa-b913aa238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tenzingkunsang&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://www.linkedin.com/in/tenzin-sherpa-b913aa238/)
+## 🌟 About Me
+✨ I'm a **passionate coder from Nepal** who loves to build, learn, and share.  
+💡 I enjoy transforming **ideas into real-world solutions** through code.  
+📚 Currently learning **Full-Stack Development & Cloud Computing**.  
+🎯 Goal: To become a **versatile software engineer** and contribute to impactful projects.  
+
+---
+
+## 🚀 Tech Universe
+
+### 🔹 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,js,php,html,css,dotnet,django,nextjs,nodejs,react,wordpress" />
+</p>
+
+### 🔹 Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,notion,trello" />
+</p>
+
+### 🔹 Design & Creative
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tenzingkunsang&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tenzingkunsang&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenzingkunsang&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tenzingkunsang&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+
+
+---
+
+## 📈 Profile Insights
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tenzingkunsang&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Tenzingkunsang&label=Profile%20Views&color=12&icon=6&pretty=true" />
+</p>
+
+---
+
+## ⚡ Fun Facts
+- 🎵 I love creating digital art & motion graphics in my free time.  
+- 🏔️ Proud Sherpa from Nepal 🇳🇵.  
+- ⚾ Used to play **baseball & basketball** a lot before coding took over!  
+
+---
+
+<h3 align="center">✨ “Code is like art — each line tells a story.” ✨</h3>
